@@ -27,4 +27,5 @@ d = { 'settings': { 'audience': 'Developers',
                 'user': 'genilsonbsantos',
                 'version': '0.0.1'},
   'syms': { 'hello_labdata_gs\\core': {'hello_labdata_gs\\core.foo': 'https://genilsonbsantos.github.io/hello_labdata_gs/hello_labdata_gs\\core.html#foo'},
-            'hello_labdata_gs\\greetings': { 'hello_labdata_gs\\greetings.hello': 'https://genilsonbsantos.github.io/hello_labdata_gs/hello_labdata_gs\\greetings.html#hello'}}}
+            'hello_labdata_gs\\greetings': { 'hello_labdata_gs\\greetings.hello': 'https://genilsonbsantos.github.io/hello_labdata_gs/hello_labdata_gs\\greetings.html#hello'},
+            'hello_labdata_gs\\jokes': { 'hello_labdata_gs\\jokes.qual_time_nao_tem_mundial': 'https://genilsonbsantos.github.io/hello_labdata_gs/hello_labdata_gs\\jokes.html#qual_time_nao_tem_mundial'}}}
